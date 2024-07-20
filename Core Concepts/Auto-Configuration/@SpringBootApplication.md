@@ -1,0 +1,2 @@
+- **`@SpringBootApplication`**: A convenience annotation that combines `@Configuration`, `@EnableAutoConfiguration`, and `@ComponentScan` with their default attributes. It's used to mark the main class of a Spring Boot application and enable auto-configuration.
+  - **Excluding Auto-Configuration Classes**: To exclude specific auto-configuration classes, use `@SpringBootApplication(exclude = {ClassName.class})`.

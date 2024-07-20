@@ -1,0 +1,1 @@
+- **`spring-boot-starter-data-jpa`**: Used to include Spring Data JPA in your project, which makes it easier to implement JPA-based repositories.

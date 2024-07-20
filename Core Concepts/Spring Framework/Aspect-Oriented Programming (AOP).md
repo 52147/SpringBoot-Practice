@@ -1,0 +1,2 @@
+**Aspect-Oriented Programming (AOP)**
+- Provides the ability to add behavior to existing code without modifying the code itself. Commonly used for cross-cutting concerns like logging, transaction management, and security.

@@ -1,0 +1,1 @@
+- **Conditional Beans**: Beans that are only created when certain conditions are met, using annotations like `@ConditionalOnProperty`, `@ConditionalOnMissingBean`, etc.

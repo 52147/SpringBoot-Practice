@@ -1,0 +1,1 @@
+- **`@EnableAutoConfiguration`**: Enables auto-configuration in Spring Boot applications. It attempts to automatically configure your Spring application based on the jar dependencies you have added.

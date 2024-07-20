@@ -1,0 +1,1 @@
+- **`spring-boot-starter-web`**: Used to create web applications, including RESTful applications using Spring MVC.
