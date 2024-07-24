@@ -1,0 +1,3 @@
+## **Explain the difference between `@RestController` and `@Controller` in Spring Boot.**
+   - `@Controller` is used to define a controller in Spring MVC. It typically returns a view (like a JSP page).
+   - `@RestController` is a specialized version of `@Controller` that combines `@Controller` and `@ResponseBody`. It is used to create RESTful web services and returns data directly in JSON or XML format.
